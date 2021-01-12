@@ -1,0 +1,58 @@
+.pand-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+    width: 100px;
+}
+.panda-slide .carousel-item{
+    background-color: #feeae9;
+    border-radius: 1em;
+}
+#subcribe{
+    background-color:#f5dfe2;
+}
+#carouselExampleControls{
+    background-color:#f3e1e4;
+}
+.buy-now-button{
+    background-image: linear-gradient( #f52179 , #f52179);
+    text-align: center;
+    height: 40px;
+    width: auto;
+    border: none;
+    border-radius: 5%;
+    color:white;
+    
+}
+.price{
+    color:#f52179 ;
+}
+
+.first-categories{
+    border-radius: 0.8em;
+    background-color: #ffa500;
+
+
+}
+.second-categories{
+    border-radius: 0.8em;
+    background-color: #da70d6;
+
+}
+.third-categories{
+    border-radius: 0.8em;
+    background-color: #0000ff;
+
+}
+.categories img{
+    width: 33%;
+
+}
+.panda-footer{
+    border: 0;
+    background-color: #ffffff;
+}
